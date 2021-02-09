@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">currency converter T3</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="result">result</string>
+    <string name="enterValue">enter your value</string>
+    <string name="value">value</string>
+    <string name="convert">convert</string>
+    <string name="resultValue">result Value</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EGP</item>
+    </string-array>
+</resources>
